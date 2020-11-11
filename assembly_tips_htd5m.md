@@ -1,4 +1,4 @@
-# MirandaCNC Assembly Tips
+# MirandaCNC Assembly Tips - HTD 5M version
 ## Belt Tensioners
 X axis:
 - Install tensioner on left side (away from carriage motor), so the belt bearings don't crash into it.
@@ -9,5 +9,4 @@ Y axis:
 
 ## Endstops
 - Use GT2 belt clip thingys as endstops only, no belts attached.
-- There are custom endstops available, where limit switches can be attached to. 
-    However, this version doesn't have a belt clip (yet?), so it is only suitable for the HTD 5M version.
+- There are custom endstops available [here](modifications/endstop_limit_switch), where limit switches can be attached to. However, these are untested
