@@ -1,1 +1,2 @@
 # mirandacnc-community
+This repository contains a collection of modifications and tips of the MirandaCNC, a CNC machine designed by [Ivan Miranda](https://www.youtube.com/user/superazote). The source files for the machine can be purchased in [Ivan Miranda's Shop](https://ivanmiranda.com/collections/all).
