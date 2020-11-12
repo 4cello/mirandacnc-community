@@ -27,4 +27,9 @@ The carriage is another very large part, however there are multiple ways to hand
 
 The bottom of the part is not critical, so you can just cut it off. Just make sure you don't cut off any mounting holes for the sliding blocks. Also, double check that you cut off the bottom, not the top. [Image](https://i.imgur.com/QEvIyVc.png)
 
-If the part won't fit flat on the bed, you can print it standing up. You can add [sacrificial layers](https://i.imgur.com/FXWv8qv.png) to cut down on plastic waste and printing time by removing the need for supports. Adding layers in the red spots in the image allows the 3D printer to simply use bridging. The sacrificial layers can be easily removed after the print using a knife. Sacrificial layers can be created either in the CAD program of your choice or directly in some slicers (like PrusaSlicer). Just make sure that the thickness matches your layer height to ensure that your slicer generates exactly one layer.
+If the part won't fit flat on the bed, you can print it standing up.
+You can add [sacrificial layers](https://i.imgur.com/FXWv8qv.png) ([Explanation video](https://www.youtube.com/watch?v=upqTE8EPZIQ)) to cut down on plastic waste and printing time by removing the need for supports. 
+Adding layers in the red spots in the image allows the 3D printer to simply use bridging. 
+The sacrificial layers can be easily removed after the print using a knife. 
+Sacrificial layers can be created either in the CAD program of your choice or directly in some slicers (like PrusaSlicer). 
+Just make sure that the thickness matches your layer height to ensure that your slicer generates exactly one layer.
