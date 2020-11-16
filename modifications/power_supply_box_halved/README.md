@@ -15,3 +15,19 @@ The covers snap together with a dovetail, but if you find the connection to be t
 filament welding (with a soldering iron or 3D pen) or simply with adhesive tape on the inside.
 
 The mounting holes are compatible with the original power supply box.
+
+## Part descriptions
+### PSBOX_HALF
+A half of the power supply box. Two of these can be connected with M3x22mm screws and nuts. 
+
+### PSBOX_HALF_CABLE_HOLE
+The same as PSBOX_HALF, but with a half circle cutout in the short wall for the output cables of the power supply.
+
+### PSBOX_COVER_BLANK
+A half of the cover for the box. Two of these can be connected with their dovetails. This version is just a blank cover, much like the back cover of the original. Compatible with all other cover variants.
+
+### PSBOX_COVER_CUTOUTS
+A modified version of PSBOX_COVER_BLANK with the cutouts for emergency stop button and power socket + switch. Compatible with all other cover variants.
+
+### PSBOX_COVER_LOGO
+A modified version of PSBOX_COVER_BLANK with the lightbulb logo from Ivan Miranda's website embossed into it. Compatible with all other cover variants.
