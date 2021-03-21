@@ -24,13 +24,18 @@ so don't fasten the rails until the carriage is installed, then move the carriag
 a couple of bolts on that side, slide it to the other side and fasten a couple of bolts on the other 
 side and then you can go and fasten everything" -Ivan
 
+## X Axis Drag Chain
+The X axis drag chain sticks out really far, which pretty much doubles the footprint the machine requires. Instead, the drag chain can be installed along the back beam of the X axis, so it is fully confined to the machine frame.
+
+Check out [this modification](modifications/drag_chain_x_mount) for an image and STL files to help with this.
+
 # Reduction Version (HTD-5M)
 ## Belt Tensioners
-X axis:
+### X axis
 - Install tensioner on left side (away from carriage motor), so the belt bearings don't crash into it. You will need to drill a hole into your printed part for the screw to fit through.
 - Doesn't require an extra belt tensioner, since screw goes through left carriage instead. However, you might want to print the mirrored version of the belt tensioner, if you stick with the stock ones (although I'm not sure if this makes a functional difference).
 
-Y axis:
+### Y axis
 - Move tensioners as far back as possible, to prevent x axis crashing into it.
 
 ## Endstops
