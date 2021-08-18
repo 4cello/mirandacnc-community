@@ -10,6 +10,7 @@ The endstop is mounted directly to the aluminium profile like the original part,
 Currently, the endstop can't be used with the GT2 version of the CNC machine because it has no belt mounting attachment. 
 If anybody gets around to add the teeth, please share your files!
 
+*Creator: @4cello#7203*
 ## Part descriptions
 ### ENDSTOP_LIMIT_SWITCH
 The modified rail endstop as descriped above.

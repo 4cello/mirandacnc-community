@@ -16,6 +16,7 @@ filament welding (with a soldering iron or 3D pen) or simply with adhesive tape 
 
 The mounting holes are compatible with the original power supply box.
 
+*Creator: @4cello#7203*
 ## Part descriptions
 ### PSBOX_HALF
 A half of the power supply box. Two of these can be connected with M3x22mm screws and nuts. 

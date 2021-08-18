@@ -7,6 +7,8 @@ Left and right of the grid's center column are two slots which hold M5 nuts that
 
 The slots have an included sacrificial layer to allow the plate to be printed face-down. After printing, simply remove the bridging layer from the slot. If some debris remains, inserting a nut and sliding it around a few times inside the slot should clean it up.
 
+*Creator: @4cello#7203*
+
 ## Part descriptions
 ### universal_plate
 The mounting plate itself as described above.
