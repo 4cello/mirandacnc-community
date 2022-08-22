@@ -13,7 +13,7 @@ I tried a test cut, but only mounted this part with double sided tape, which int
 
 ## Part descriptions
 ### cnc_vacuum_mount
-The upper part of the system. It attaches to the carriage via 2 M5 bolts. It accepts a vacuum hose with a 35mm endpiece.
+The upper part of the system. It attaches to the carriage via 2 M5 bolts. It accepts a vacuum hose with a 36mm endpiece.
 ### sliding_succ
 The sliding part of the system. It goes into the bottom of the `cnc_vacuum_mount` and is clamped at the desired height using a M5 bolt.
 ### vac_bracket
